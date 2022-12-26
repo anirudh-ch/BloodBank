@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mariBlood</string>
+    <array name="bloodTypes">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB-</item>
+    </array>
+</resources>
